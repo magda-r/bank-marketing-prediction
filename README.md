@@ -1,4 +1,4 @@
-# Bank Marketing Prediction
+# Banking Marketing Prediction
 
 ## Dataset
 The dataset contains information about direct marketing campaign (phone calls) of a Portuguese banking institution.
